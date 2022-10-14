@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/lee-ethan/lee-ethan/main/name.svg" alt="Ethan Lee" />
 </h1>
 **'Digital Craftsman (Engineer/Developer)'** 
 <!--
